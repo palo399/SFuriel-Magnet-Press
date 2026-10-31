@@ -1,0 +1,59 @@
+Component,Material_supplier,Description
+Workpiece_at_press_C2,Concept hardware,
+M6_vertical_plunger_body_envelope,Concept hardware,
+Plunger_ball_concept,Concept hardware,
+L_inlet_level_bed,Concept hardware,
+L_inlet_level_side_71,Concept hardware,
+L_inlet_level_side_105,Concept hardware,
+Chute_bed,Concept hardware,
+Chute_wall_front,Concept hardware,
+Chute_wall_back,Concept hardware,
+Queue_on_track_0,Concept hardware,
+Queue_on_track_1,Concept hardware,
+Queue_on_track_2,Concept hardware,
+Part_on_inlet_slope_0,Reference workpiece,
+Part_on_inlet_slope_1,Reference workpiece,
+Part_on_inlet_slope_2,Reference workpiece,
+P02_Track_bed,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0"
+M4x16_Left_-125,Fastener,ISO4762 M4x16 simplified
+M4x16_Left_-75,Fastener,ISO4762 M4x16 simplified
+M4x16_Left_-25,Fastener,ISO4762 M4x16 simplified
+M4x16_Left_25,Fastener,ISO4762 M4x16 simplified
+M4x16_Left_65,Fastener,ISO4762 M4x16 simplified
+Left_through_retaining_rail,Aluminium or nonmagnetic guide,Retaining bevel; holes at assembly XY
+M4x16_Righ_-125,Fastener,ISO4762 M4x16 simplified
+M4x16_Righ_-75,Fastener,ISO4762 M4x16 simplified
+M4x16_Righ_-25,Fastener,ISO4762 M4x16 simplified
+M4x16_Righ_25,Fastener,ISO4762 M4x16 simplified
+M4x16_Righ_65,Fastener,ISO4762 M4x16 simplified
+Right_through_retaining_rail,Aluminium or nonmagnetic guide,Retaining bevel; holes at assembly XY
+Head_pickup_magnet,Magnet,Head retention magnet concept
+Product_magnet_14x5,Magnet,USER CONFIRMED D14x5
+Festo_PART_INDEX_ADN16_30,Festo,ADN-16-30-I-P-A #536231; simplified catalogue envelope
+P05_Separator_face,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0"
+Separator_rod_extension,Steel,Links cylinder to pusher
+P06_Separator_foot,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0"
+C_fork_14x5,POM / nonmagnetic,Open pickup pocket D14.3 depth5.1
+Festo_FORK_ADN16_70,Festo,ADN-16-70-I-P-A #8178767; simplified catalogue envelope
+P07_Fork_motor_face,Reference,
+Fork_link_extension,Steel,"Link to fork, articulation to develop"
+Fork_extended_rod_65,Festo rod representation,ADN16-70 shown extended65; adjustable stops required
+Fork_coupling_block,Aluminium,Coupling to open fork
+P09_Fork_motor_foot,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0"
+Next_rohovnik_on_inlet,Workpiece,Next piece before separator
+C4_Base_plate,Aluminium,500x400x15; redundant C3 holes removed
+BR_Left_column_L68,Bosch Rexroth,45x45 slot10 L68; cross-section schematic
+BR_Right_column_L68,Bosch Rexroth,45x45 slot10 L68; cross-section schematic
+C4_Bridge,Steel S355,220x140x15; press mount TG46.5; tube support
+Festo_PRESS_ADN50_25,Festo,ADN-50-25-I-P-A #536324; provisional force selection
+Short_coaxial_press_tool,Tool steel,L45.3; D16 shank; annular D13.4 tip around recessed pickup magnet; connection thread to confirm
+Fixed_magnet_stripper,POM / nonmagnetic,Bore14.4; exit gap5.3 above floor16.9; NO actuator
+Stripper_side_support_-15,Aluminium / POM liner,Combined fixed shoe support and fork guide; lateral clearance0.2
+Stripper_side_support_12,Aluminium / POM liner,Combined fixed shoe support and fork guide; lateral clearance0.2
+Magnet_tube_300,Nonmagnetic tube,ID14.4 OD20 L300; no gate slot
+Tube_split_collar_on_bridge,Aluminium,40mm guide sleeve; OD20.3 bore; clamping screw to finish
+Stack_14x5_0,Magnet,D14x5 reference only
+Stack_14x5_1,Magnet,D14x5 reference only
+Stack_14x5_2,Magnet,D14x5 reference only
+Stack_14x5_3,Magnet,D14x5 reference only
+Linked_pusher_and_inlet_shutter,POM / aluminium,"One rigid moving part, 30mm stroke; NO gate ADN"
