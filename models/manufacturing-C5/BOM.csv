@@ -1,0 +1,90 @@
+Item,Material,Specification
+Workpiece_at_press_C2,Reused C4,
+L_inlet_level_bed,Reused C4,
+L_inlet_level_side_71,Reused C4,
+L_inlet_level_side_105,Reused C4,
+Chute_bed,Reused C4,
+Chute_wall_front,Reused C4,
+Chute_wall_back,Reused C4,
+Queue_on_track_0,Reused C4,
+Queue_on_track_1,Reused C4,
+Queue_on_track_2,Reused C4,
+Part_on_inlet_slope_0,Reused C4,
+Part_on_inlet_slope_1,Reused C4,
+Part_on_inlet_slope_2,Reused C4,
+M4x16_Left_-125,Reused C4,
+M4x16_Left_-75,Reused C4,
+M4x16_Left_-25,Reused C4,
+M4x16_Left_25,Reused C4,
+M4x16_Left_65,Reused C4,
+Left_through_retaining_rail,Reused C4,
+M4x16_Righ_-125,Reused C4,
+M4x16_Righ_-75,Reused C4,
+M4x16_Righ_-25,Reused C4,
+M4x16_Righ_25,Reused C4,
+M4x16_Righ_65,Reused C4,
+Right_through_retaining_rail,Reused C4,
+Head_pickup_magnet,Reused C4,
+Product_magnet_14x5,Reused C4,
+Festo_PART_INDEX_ADN16_30,Reused C4,Dimensioned interfaces pending original vendor CAD
+P05_Separator_face,Reused C4,
+Separator_rod_extension,Reused C4,
+P06_Separator_foot,Reused C4,
+Festo_FORK_ADN16_70,Reused C4,Dimensioned interfaces pending original vendor CAD
+P07_Fork_motor_face,Reused C4,
+Fork_link_extension,Reused C4,
+Fork_extended_rod_65,Reused C4,
+P09_Fork_motor_foot,Reused C4,
+Next_rohovnik_on_inlet,Reused C4,
+BR_Left_column_L68,Reused C4,
+BR_Right_column_L68,Reused C4,
+Festo_PRESS_ADN50_25,Reused C4,Dimensioned interfaces pending original vendor CAD
+Magnet_tube_300,Reused C4,
+Stack_14x5_0,Reused C4,
+Stack_14x5_1,Reused C4,
+Stack_14x5_2,Reused C4,
+Stack_14x5_3,Reused C4,
+Linked_pusher_and_inlet_shutter,Reused C4,
+KIPP_K0309_212_ORIGINAL,User supplied TraceParts STEP,Body D12 L22; ball D8; nominal free sphere tangent to D5 mouth
+D01_Base,Aluminium 6082-T6,Central32x32 through pocket; flatness0.10 datum top; deburr0.2
+D01_Base,Aluminium6082-T6,"Central pocket32x32 assembly XY[-16,+16]"
+D02_Track_bed,Aluminium6082-T6,Top Z0; flatness0.05; no thread in central hole
+D03_Plunger_block,Steel C45,M12x1.75-6H through; flange M6 clearance6.6; setting access from below
+D04_Bridge,Steel S355,Top Z75; flatness0.05 cylinder seat
+D05_Stop_plate,Steel S355,"D11 counterbores depth6 FROM BOTTOM at X8,96 Y15; top Z33.7"
+D05_Stop_plate,SteelS355,Counterbore from bottom; top Z33.7
+D06_Stop_spacer_-44,SteelC45,D12 L26.30 +/-0.02; M6x1-6H depth10 each end
+D06_Stop_spacer_44,SteelC45,D12 L26.30 +/-0.02; M6x1-6H depth10 each end
+D07_Press_tool,SteelC45,Tip D13.4; pickup bore10.2 depth2.1; M16x1 from Z40..56; M10x1.5 male L15 at Z67.3; thread geometry schematic
+D08_Adjust_ring,SteelC45,D28; M16x1-6H; pin-spanner2xD3 PCD22
+D09_Lock_ring,SteelC45,D28; M16x1-6H; pin-spanner2xD3 PCD22
+D10_Fixed_stripper,POM-C,Underside22.2; carrier pocket floor16.9 => gap5.3; magnet tolerance unknown
+D11_Carrier_support_-18,POM-C,Base M5 depth10; stripper M4 depth10; guide gap22.4; runner top15.0
+D11_Carrier_support_12,POM-C,Base M5 depth10; stripper M4 depth10; guide gap22.4; runner top15.0
+D12_Carrier_14x5,POM-C,"Open pocket D14.3 +0.05; floor16.9; 2xM3 TAP through at72,79 Y0"
+D13_Under_carrier_link,Aluminium6082,M3x10 from below to carrier; M6 threaded linkage bore alongX; link below carrier
+D14_Tube_collar,Aluminium6082,M4 pinch clamp across split; D20.3 bore; fourM4 mounting holes
+B_PRESS_-23.25_-23.25,Fastener,ISO4762 M8x25; schematic
+B_PRESS_-23.25_23.25,Fastener,ISO4762 M8x25; schematic
+B_PRESS_23.25_-23.25,Fastener,ISO4762 M8x25; schematic
+B_PRESS_23.25_23.25,Fastener,ISO4762 M8x25; schematic
+B_STOP_upper_-44,Fastener,ISO4762 M6x25; schematic
+B_STOP_lower_-44,Fastener,ISO4762 M6x12; schematic
+B_STOP_upper_44,Fastener,ISO4762 M6x25; schematic
+B_STOP_lower_44,Fastener,ISO4762 M6x12; schematic
+B_PLUNGER_-22_-22,Fastener,ISO4762 M6x20; schematic
+B_PLUNGER_-22_22,Fastener,ISO4762 M6x20; schematic
+B_PLUNGER_22_-22,Fastener,ISO4762 M6x20; schematic
+B_PLUNGER_22_22,Fastener,ISO4762 M6x20; schematic
+B_STRIP_53_-15,Fastener,ISO4762 M4x12; schematic
+B_STRIP_53_15,Fastener,ISO4762 M4x12; schematic
+B_STRIP_77_-15,Fastener,ISO4762 M4x12; schematic
+B_STRIP_77_15,Fastener,ISO4762 M4x12; schematic
+B_CARRIER_BASE_35_-15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_BASE_35_15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_BASE_100_-15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_BASE_100_15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_BASE_150_-15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_BASE_150_15,Fastener,ISO4762 M5x25; schematic
+B_CARRIER_LINK_72,Fastener,ISO4762 M3x10; schematic
+B_CARRIER_LINK_79,Fastener,ISO4762 M3x10; schematic

@@ -1,0 +1,33 @@
+[
+  {
+    "vendor": "Festo",
+    "part": 536324,
+    "type": "ADN-50-25-I-P-A",
+    "status": "ORIGINAL_CAD_NOT_DOWNLOADED_LOGIN_REQUIRED",
+    "official_cad_url": "https://www.festo.com/eap/en_us/DKI3CAD2Fox/start.do?part=536324",
+    "installed_geometry": "catalogue-based simplified envelope inherited from C4"
+  },
+  {
+    "vendor": "Festo",
+    "part": 536231,
+    "type": "ADN-16-30-I-P-A",
+    "status": "ORIGINAL_CAD_NOT_DOWNLOADED_LOGIN_REQUIRED",
+    "official_cad_url": "https://www.festo.com/eap/en_us/DKI3CAD2Fox/start.do?part=536231",
+    "installed_geometry": "catalogue-based simplified envelope inherited from C4"
+  },
+  {
+    "vendor": "Festo",
+    "part": 8178767,
+    "type": "ADN-16-70-I-P-A",
+    "status": "ORIGINAL_CAD_NOT_DOWNLOADED_LOGIN_REQUIRED",
+    "official_cad_url": "https://www.festo.com/eap/en_us/DKI3CAD2Fox/start.do?part=8178767",
+    "installed_geometry": "catalogue-based simplified envelope inherited from C4"
+  },
+  {
+    "vendor": "KIPP",
+    "filename": "models/vendor/kipp/k0309_212.stp",
+    "source": "user upload, TraceParts STEP header",
+    "sha256": "4a5a130410bca986de5f6efdb96738524074e7e373cf581f94ad5ffb473f2e02",
+    "status": "ORIGINAL_UPLOADED_STEP_IMPORTED"
+  }
+]

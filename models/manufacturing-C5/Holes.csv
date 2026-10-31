@@ -1,0 +1,66 @@
+Part,LocalX,LocalY,Diameter,Operation,Thickness
+D01_Base,60,112.5,13,CLEAR,15
+D01_Base,230,112.5,13,CLEAR,15
+D01_Base,123,310,5,M6 TAP THROUGH,15
+D01_Base,123,348,5,M6 TAP THROUGH,15
+D01_Base,167,310,5,M6 TAP THROUGH,15
+D01_Base,167,348,5,M6 TAP THROUGH,15
+D01_Base,325,135,5,M6 TAP THROUGH,15
+D01_Base,325,175,5,M6 TAP THROUGH,15
+D01_Base,435,135,5,M6 TAP THROUGH,15
+D01_Base,435,175,5,M6 TAP THROUGH,15
+D01_Base,126,55,6.6,CLEAR,15
+D01_Base,126,205,6.6,CLEAR,15
+D01_Base,164,55,6.6,CLEAR,15
+D01_Base,164,205,6.6,CLEAR,15
+D01_Base,15,15,9,CLEAR,15
+D01_Base,15,385,9,CLEAR,15
+D01_Base,485,15,9,CLEAR,15
+D01_Base,485,385,9,CLEAR,15
+D01_Base,123,133,5,M6 TAP THROUGH plunger flange,15
+D01_Base,123,177,5,M6 TAP THROUGH plunger flange,15
+D01_Base,167,133,5,M6 TAP THROUGH plunger flange,15
+D01_Base,167,177,5,M6 TAP THROUGH plunger flange,15
+D01_Base,180,140,5.5,M5 guide fixing from below,15
+D01_Base,180,170,5.5,M5 guide fixing from below,15
+D01_Base,245,140,5.5,M5 guide fixing from below,15
+D01_Base,245,170,5.5,M5 guide fixing from below,15
+D01_Base,295,140,5.5,M5 guide fixing from below,15
+D01_Base,295,170,5.5,M5 guide fixing from below,15
+D02_Track_bed,23,140,12.5,KIPP body clearance,8
+D02_Track_bed,4,15,3.3,M4 TAP THROUGH,8
+D02_Track_bed,4,65,3.3,M4 TAP THROUGH,8
+D02_Track_bed,4,115,3.3,M4 TAP THROUGH,8
+D02_Track_bed,4,165,3.3,M4 TAP THROUGH,8
+D02_Track_bed,4,205,3.3,M4 TAP THROUGH,8
+D02_Track_bed,42,15,3.3,M4 TAP THROUGH,8
+D02_Track_bed,42,65,3.3,M4 TAP THROUGH,8
+D02_Track_bed,42,115,3.3,M4 TAP THROUGH,8
+D02_Track_bed,42,165,3.3,M4 TAP THROUGH,8
+D02_Track_bed,42,205,3.3,M4 TAP THROUGH,8
+D02_Track_bed,4,40,5,M6 TAP THROUGH from underside,8
+D02_Track_bed,4,190,5,M6 TAP THROUGH from underside,8
+D02_Track_bed,42,40,5,M6 TAP THROUGH from underside,8
+D02_Track_bed,42,190,5,M6 TAP THROUGH from underside,8
+D04_Bridge,25,47.5,13,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,195,47.5,13,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,110,90,20,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,175,90,20.5,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,86.75,66.75,9,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,86.75,113.25,9,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,133.25,66.75,9,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,133.25,113.25,9,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,162,77,4.5,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,162,103,4.5,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,188,77,4.5,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,188,103,4.5,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,154,90,6.6,CLEAR; ADN face TG46.5 where applicable,15
+D04_Bridge,66,90,6.6,CLEAR; ADN face TG46.5 where applicable,15
+D05_Stop_plate,52,15,18,TOOL clearance; NO guide fit,10
+D05_Stop_plate,8,15,6.6,M6 clearance,10
+D05_Stop_plate,96,15,6.6,M6 clearance,10
+D10_Fixed_stripper,3,3,4.5,M4 clearance,3
+D10_Fixed_stripper,3,33,4.5,M4 clearance,3
+D10_Fixed_stripper,27,3,4.5,M4 clearance,3
+D10_Fixed_stripper,27,33,4.5,M4 clearance,3
+D10_Fixed_stripper,15,18,14.4,Magazine bore +0.02 /0,3

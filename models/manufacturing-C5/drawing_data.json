@@ -1,0 +1,488 @@
+[
+  {
+    "name": "D01_Base",
+    "w": 500,
+    "h": 400,
+    "t": 15,
+    "holes": [
+      [
+        60,
+        112.5,
+        13,
+        "CLEAR"
+      ],
+      [
+        230,
+        112.5,
+        13,
+        "CLEAR"
+      ],
+      [
+        123,
+        310,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        123,
+        348,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        167,
+        310,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        167,
+        348,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        325,
+        135,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        325,
+        175,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        435,
+        135,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        435,
+        175,
+        5,
+        "M6 TAP THROUGH"
+      ],
+      [
+        126,
+        55,
+        6.6,
+        "CLEAR"
+      ],
+      [
+        126,
+        205,
+        6.6,
+        "CLEAR"
+      ],
+      [
+        164,
+        55,
+        6.6,
+        "CLEAR"
+      ],
+      [
+        164,
+        205,
+        6.6,
+        "CLEAR"
+      ],
+      [
+        15,
+        15,
+        9,
+        "CLEAR"
+      ],
+      [
+        15,
+        385,
+        9,
+        "CLEAR"
+      ],
+      [
+        485,
+        15,
+        9,
+        "CLEAR"
+      ],
+      [
+        485,
+        385,
+        9,
+        "CLEAR"
+      ],
+      [
+        123,
+        133,
+        5,
+        "M6 TAP THROUGH plunger flange"
+      ],
+      [
+        123,
+        177,
+        5,
+        "M6 TAP THROUGH plunger flange"
+      ],
+      [
+        167,
+        133,
+        5,
+        "M6 TAP THROUGH plunger flange"
+      ],
+      [
+        167,
+        177,
+        5,
+        "M6 TAP THROUGH plunger flange"
+      ],
+      [
+        180,
+        140,
+        5.5,
+        "M5 guide fixing from below"
+      ],
+      [
+        180,
+        170,
+        5.5,
+        "M5 guide fixing from below"
+      ],
+      [
+        245,
+        140,
+        5.5,
+        "M5 guide fixing from below"
+      ],
+      [
+        245,
+        170,
+        5.5,
+        "M5 guide fixing from below"
+      ],
+      [
+        295,
+        140,
+        5.5,
+        "M5 guide fixing from below"
+      ],
+      [
+        295,
+        170,
+        5.5,
+        "M5 guide fixing from below"
+      ]
+    ],
+    "material": "Aluminium 6082-T6",
+    "notes": "Central32x32 through pocket; flatness0.10 datum top; deburr0.2",
+    "pocket": [
+      129,
+      139,
+      32,
+      32
+    ]
+  },
+  {
+    "name": "D02_Track_bed",
+    "w": 46,
+    "h": 250,
+    "t": 8,
+    "holes": [
+      [
+        23,
+        140,
+        12.5,
+        "KIPP body clearance"
+      ],
+      [
+        4,
+        15,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        4,
+        65,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        4,
+        115,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        4,
+        165,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        4,
+        205,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        42,
+        15,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        42,
+        65,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        42,
+        115,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        42,
+        165,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        42,
+        205,
+        3.3,
+        "M4 TAP THROUGH"
+      ],
+      [
+        4,
+        40,
+        5,
+        "M6 TAP THROUGH from underside"
+      ],
+      [
+        4,
+        190,
+        5,
+        "M6 TAP THROUGH from underside"
+      ],
+      [
+        42,
+        40,
+        5,
+        "M6 TAP THROUGH from underside"
+      ],
+      [
+        42,
+        190,
+        5,
+        "M6 TAP THROUGH from underside"
+      ]
+    ],
+    "material": "Aluminium6082-T6",
+    "notes": "Top Z0; flatness0.05; no thread in central hole"
+  },
+  {
+    "name": "D03_Plunger_block",
+    "w": 60,
+    "h": 60,
+    "t": 25,
+    "holes": [
+      [
+        30,
+        30,
+        10.2,
+        "M12x1.75 TAP THROUGH"
+      ],
+      [
+        8,
+        8,
+        6.6,
+        "M6 clearance"
+      ],
+      [
+        8,
+        52,
+        6.6,
+        "M6 clearance"
+      ],
+      [
+        52,
+        8,
+        6.6,
+        "M6 clearance"
+      ],
+      [
+        52,
+        52,
+        6.6,
+        "M6 clearance"
+      ]
+    ],
+    "material": "Steel C45",
+    "notes": "Flange10; boss30x30x15 centred; drawing shows plan; use STEP for steps. Low-strength thread locking after adjustment."
+  },
+  {
+    "name": "D04_Bridge",
+    "w": 220,
+    "h": 140,
+    "t": 15,
+    "holes": [
+      [
+        25,
+        47.5,
+        13,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        195,
+        47.5,
+        13,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        110,
+        90,
+        20,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        175,
+        90,
+        20.5,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        86.75,
+        66.75,
+        9,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        86.75,
+        113.25,
+        9,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        133.25,
+        66.75,
+        9,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        133.25,
+        113.25,
+        9,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        162,
+        77,
+        4.5,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        162,
+        103,
+        4.5,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        188,
+        77,
+        4.5,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        188,
+        103,
+        4.5,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        154,
+        90,
+        6.6,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ],
+      [
+        66,
+        90,
+        6.6,
+        "CLEAR; ADN face TG46.5 where applicable"
+      ]
+    ],
+    "material": "Steel S355",
+    "notes": "Top Z75; flatness0.05 cylinder seat"
+  },
+  {
+    "name": "D05_Stop_plate",
+    "w": 104,
+    "h": 30,
+    "t": 10,
+    "holes": [
+      [
+        52,
+        15,
+        18,
+        "TOOL clearance; NO guide fit"
+      ],
+      [
+        8,
+        15,
+        6.6,
+        "M6 clearance"
+      ],
+      [
+        96,
+        15,
+        6.6,
+        "M6 clearance"
+      ]
+    ],
+    "material": "Steel S355",
+    "notes": "D11 counterbores depth6 FROM BOTTOM at X8,96 Y15; top Z33.7"
+  },
+  {
+    "name": "D10_Fixed_stripper",
+    "w": 30,
+    "h": 36,
+    "t": 3,
+    "holes": [
+      [
+        3,
+        3,
+        4.5,
+        "M4 clearance"
+      ],
+      [
+        3,
+        33,
+        4.5,
+        "M4 clearance"
+      ],
+      [
+        27,
+        3,
+        4.5,
+        "M4 clearance"
+      ],
+      [
+        27,
+        33,
+        4.5,
+        "M4 clearance"
+      ],
+      [
+        15,
+        18,
+        14.4,
+        "Magazine bore +0.02 /0"
+      ]
+    ],
+    "material": "POM-C",
+    "notes": "Underside22.2; carrier pocket floor16.9 => gap5.3; magnet tolerance unknown"
+  }
+]
