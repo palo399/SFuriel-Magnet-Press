@@ -1,0 +1,108 @@
+Part,LocalX_mm,LocalY_mm,ModelDiameter_mm,Operation,Thickness_mm
+P01_Base,-105,-45,8,Plunger access,15
+P01_Base,-190,-87.5,13,M12 profile end bolt VERIFY,15
+P01_Base,-20,-87.5,13,M12 profile end bolt VERIFY,15
+P01_Base,15,-5,13,Magazine mast end bolt VERIFY,15
+P01_Base,-127,110,5,M6 TAP mounting foot,15
+P01_Base,-127,148,5,M6 TAP mounting foot,15
+P01_Base,-83,110,5,M6 TAP mounting foot,15
+P01_Base,-83,148,5,M6 TAP mounting foot,15
+P01_Base,75,-65,5,M6 TAP mounting foot,15
+P01_Base,75,-25,5,M6 TAP mounting foot,15
+P01_Base,185,-65,5,M6 TAP mounting foot,15
+P01_Base,185,-25,5,M6 TAP mounting foot,15
+P01_Base,-70,-140,5,M6 TAP mounting foot,15
+P01_Base,-70,-90,5,M6 TAP mounting foot,15
+P01_Base,-10,-140,5,M6 TAP mounting foot,15
+P01_Base,-10,-90,5,M6 TAP mounting foot,15
+P01_Base,-153,-25,9,M8 stop pillar fixing,15
+P01_Base,-57,-25,9,M8 stop pillar fixing,15
+P01_Base,-145,-77,12,Guide shaft D12H7 seat,15
+P01_Base,-65,-77,12,Guide shaft D12H7 seat,15
+P01_Base,-124,-145,6.6,M6 track attachment from below,15
+P01_Base,-124,5,6.6,M6 track attachment from below,15
+P01_Base,-86,-145,6.6,M6 track attachment from below,15
+P01_Base,-86,5,6.6,M6 track attachment from below,15
+P01_Base,-235,-185,9,M8 bench mounting,15
+P01_Base,-235,185,9,M8 bench mounting,15
+P01_Base,235,-185,9,M8 bench mounting,15
+P01_Base,235,185,9,M8 bench mounting,15
+P02_Track_bed,0,15,5,M6x1 TAP THROUGH plunger,8
+P02_Track_bed,-19,-110,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,-19,-60,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,-19,-10,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,-19,40,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,-19,80,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,19,-110,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,19,-60,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,19,-10,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,19,40,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,19,80,3.3,M4 TAP THROUGH rail,8
+P02_Track_bed,-19,-85,5,M6 TAP THROUGH base,8
+P02_Track_bed,-19,65,5,M6 TAP THROUGH base,8
+P02_Track_bed,19,-85,5,M6 TAP THROUGH base,8
+P02_Track_bed,19,65,5,M6 TAP THROUGH base,8
+Left_through_retaining_rail,-19,-125,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Left_through_retaining_rail,-19,-75,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Left_through_retaining_rail,-19,-25,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Left_through_retaining_rail,-19,25,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Left_through_retaining_rail,-19,65,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Right_through_retaining_rail,19,-125,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Right_through_retaining_rail,19,-75,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Right_through_retaining_rail,19,-25,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Right_through_retaining_rail,19,25,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+Right_through_retaining_rail,19,65,4.5,Through + counterbore D7.5 from Z14 to9.5,14
+P03_Top_bridge,-85,-22.5,13,M12 profile end bolt VERIFY,15
+P03_Top_bridge,85,-22.5,13,M12 profile end bolt VERIFY,15
+P03_Top_bridge,0,20,20,Press rod clearance,15
+P03_Top_bridge,-23.25,-3.25,9,Festo ADN50 M8 face mount TG46.5,15
+P03_Top_bridge,-23.25,43.25,9,Festo ADN50 M8 face mount TG46.5,15
+P03_Top_bridge,23.25,-3.25,9,Festo ADN50 M8 face mount TG46.5,15
+P03_Top_bridge,23.25,43.25,9,Festo ADN50 M8 face mount TG46.5,15
+P03_Top_bridge,-40,-12,12,Guide shaft seat D12H7 to finish,15
+P03_Top_bridge,40,-12,12,Guide shaft seat D12H7 to finish,15
+P04_Moving_head,-48,30,9,M8 depth stop clearance,12
+P04_Moving_head,48,30,9,M8 depth stop clearance,12
+P04_Moving_head,0,10,10,M12 TAP coupling pilot,12
+P04_Moving_head,-40,-22,18,Linear bushing seat VERIFY,12
+P04_Moving_head,40,-22,18,Linear bushing seat VERIFY,12
+P05_Separator_face,-9,-9,4.5,Festo ADN16 M4 TG18,6
+P05_Separator_face,-9,9,4.5,Festo ADN16 M4 TG18,6
+P05_Separator_face,9,-9,4.5,Festo ADN16 M4 TG18,6
+P05_Separator_face,9,9,4.5,Festo ADN16 M4 TG18,6
+P05_Separator_face,0,0,10,Rod clearance,6
+P06_Separator_foot,-22,-20,6.6,M6 base bolt,8
+P06_Separator_foot,22,-20,6.6,M6 base bolt,8
+P06_Separator_foot,-22,18,6.6,SLOT length 20 along local Y,8
+P06_Separator_foot,22,18,6.6,SLOT length 20 along local Y,8
+C_fork_14x5,72,0,1.65,M2 TAP linkage,7
+C_fork_14x5,79,0,1.65,M2 TAP linkage,7
+P07_Fork_motor_face_local,-9,-9,4.5,Festo ADN16 M4 TG18,6
+P07_Fork_motor_face_local,-9,9,4.5,Festo ADN16 M4 TG18,6
+P07_Fork_motor_face_local,9,-9,4.5,Festo ADN16 M4 TG18,6
+P07_Fork_motor_face_local,9,9,4.5,Festo ADN16 M4 TG18,6
+P07_Fork_motor_face_local,0,0,10,Rod clearance,6
+P09_Fork_motor_foot,-55,-20,6.6,M6 base fixing,4.5
+P09_Fork_motor_foot,55,-20,6.6,M6 base fixing,4.5
+P09_Fork_motor_foot,-55,20,6.6,M6 base fixing,4.5
+P09_Fork_motor_foot,55,20,6.6,M6 base fixing,4.5
+P10_Magnet_gate_face,-8,-8,4.5,Festo ADN12 M4 TG16,6
+P10_Magnet_gate_face,-8,8,4.5,Festo ADN12 M4 TG16,6
+P10_Magnet_gate_face,8,-8,4.5,Festo ADN12 M4 TG16,6
+P10_Magnet_gate_face,8,8,4.5,Festo ADN12 M4 TG16,6
+P10_Magnet_gate_face,0,0,8,Rod clearance,6
+P12_Magnet_gate_foot,-30,-25,6.6,M6 base bolt,10.95
+P12_Magnet_gate_foot,30,-25,6.6,M6 base bolt,10.95
+P12_Magnet_gate_foot,-30,25,6.6,M6 base bolt,10.95
+P12_Magnet_gate_foot,30,25,6.6,M6 base bolt,10.95
+P11_Inlet_gate_motor_shelf,9,-8,4.5,Festo ADN12 M4 TG16,6
+P11_Inlet_gate_motor_shelf,9,8,4.5,Festo ADN12 M4 TG16,6
+P11_Inlet_gate_motor_shelf,25,-8,4.5,Festo ADN12 M4 TG16,6
+P11_Inlet_gate_motor_shelf,25,8,4.5,Festo ADN12 M4 TG16,6
+P11_Inlet_gate_motor_shelf,17,0,8,Rod clearance,6
+P08_Mast_shelf_50,-8.75,-15,20.5,Tube clearance,6
+P08_Mast_shelf_50,-21.25,-5,3.3,M3 clamp attachment,6
+P08_Mast_shelf_50,3.75,-5,3.3,M3 clamp attachment,6
+P08_Mast_shelf_230,-8.75,-15,20.5,Tube clearance,6
+P08_Mast_shelf_230,-21.25,-5,3.3,M3 clamp attachment,6
+P08_Mast_shelf_230,3.75,-5,3.3,M3 clamp attachment,6

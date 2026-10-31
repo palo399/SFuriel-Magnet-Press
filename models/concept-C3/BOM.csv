@@ -1,0 +1,84 @@
+Component,Material_or_supplier,Specification,BBoxX_mm,BBoxY_mm,BBoxZ_mm
+Workpiece_at_press_C2,Concept hardware,,29.0,29.0,9.5
+M6_vertical_plunger_body_envelope,Concept hardware,,6.0,6.0,12.0
+Plunger_ball_concept,Concept hardware,,5.5,5.5,5.5
+L_inlet_level_bed,Concept hardware,,35.2,30.0,4.0
+L_inlet_level_side_71,Concept hardware,,27.0,4.0,14.0
+L_inlet_level_side_105,Concept hardware,,27.0,4.0,14.0
+Chute_bed,Concept hardware,,119.51,30.0,58.57
+Chute_wall_front,Concept hardware,,123.74,4.0,67.63
+Chute_wall_back,Concept hardware,,123.74,4.0,67.63
+Queue_on_track_0,Concept hardware,,29.0,29.0,9.5
+Queue_on_track_1,Concept hardware,,29.0,29.0,9.5
+Queue_on_track_2,Concept hardware,,29.0,29.0,9.5
+Part_at_lateral_inlet,Reference workpiece,,29.0,29.0,9.5
+Part_on_inlet_slope_0,Reference workpiece,,27.97,29.0,18.75
+Part_on_inlet_slope_1,Reference workpiece,,27.97,29.0,18.75
+Part_on_inlet_slope_2,Reference workpiece,,27.97,29.0,18.75
+P01_Base,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",500.0,400.0,15.0
+P02_Track_bed,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",46.0,250.0,8.0
+M4x16_Left_-125,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Left_-75,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Left_-25,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Left_25,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Left_65,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+Left_through_retaining_rail,Aluminium or nonmagnetic guide,Retaining bevel; holes at assembly XY,9.8,250.0,14.0
+M4x16_Righ_-125,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Righ_-75,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Righ_-25,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Righ_25,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+M4x16_Righ_65,Fastener,ISO4762 M4x16 simplified,7.0,7.0,20.0
+Right_through_retaining_rail,Aluminium or nonmagnetic guide,Retaining bevel; holes at assembly XY,9.8,250.0,14.0
+BR_Left_column,Bosch Rexroth profile,"45x45 slot10, cut 200; contour schematic",45.0,45.0,200.0
+BR_Right_column,Bosch Rexroth profile,"45x45 slot10, cut 200; contour schematic",45.0,45.0,200.0
+BR_Magazine_mast,Bosch Rexroth profile,"45x45 slot10, cut 340; contour schematic",45.0,45.0,340.0
+P03_Top_bridge,Steel S355,"Plate: local XY origin at centre, bottom Z=0",220.0,140.0,15.0
+P04_Moving_head,Steel S355,"Plate: local XY origin at centre, bottom Z=0",110.0,80.0,12.0
+Guide_D12_-40,Hardened guide shaft,D12 x221,12.0,12.0,221.0
+Guide_bushing_-40,Linear bearing,"D12 bore, D18 body provisional",18.0,18.0,24.0
+Guide_D12_40,Hardened guide shaft,D12 x221,12.0,12.0,221.0
+Guide_bushing_40,Linear bearing,"D12 bore, D18 body provisional",18.0,18.0,24.0
+Punch_shaft,Steel tool,D13.4 punch; length96-24,13.4,13.4,72.0
+Head_pickup_magnet,Magnet,Head retention magnet concept,10.0,10.0,2.0
+Product_magnet_14x5,Magnet,USER CONFIRMED D14x5,14.0,14.0,5.0
+Stop_support_-48,Steel,M8 tapped depth stop pillar,16.0,16.0,78.7
+Adjustable_stop_M8_-48,Fastener,Adjust travel after press-fit test,14.0,14.0,42.0
+Stop_support_48,Steel,M8 tapped depth stop pillar,16.0,16.0,78.7
+Adjustable_stop_M8_48,Fastener,Adjust travel after press-fit test,14.0,14.0,42.0
+Festo_PRESS_ADN50_25,Festo,ADN-50-25-I-P-A #536324; simplified catalogue envelope,65.5,65.5,77.7
+Press_rod_adapter,Steel,Female piston rod coupling; confirm thread and floating coupling,12.0,12.0,91.3
+Festo_PART_INDEX_ADN16_30,Festo,ADN-16-30-I-P-A #536231; simplified catalogue envelope,29.0,69.7,29.0
+P05_Separator_face,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",48.0,6.0,36.0
+Separator_rod_extension,Steel,Links cylinder to pusher,6.0,30.3,6.0
+Separator_pusher,POM,Removable pushing shoe,24.0,4.0,22.0
+P06_Separator_foot,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",60.0,75.0,8.0
+C_fork_14x5,POM / nonmagnetic,Open pickup pocket D14.3 depth5.1,95.0,22.0,7.0
+Fork_slide_guide_-17,POM,0.2mm running clearance to be tuned,64.0,6.0,9.0
+Fork_slide_guide_11,POM,0.2mm running clearance to be tuned,64.0,6.0,9.0
+Festo_FORK_ADN16_70,Festo,ADN-16-70-I-P-A #8178767; simplified catalogue envelope,109.7,29.0,29.0
+P07_Fork_motor_face_local,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",44.0,44.0,6.0
+Fork_link_extension,Steel,"Link to fork, articulation to develop",41.3,6.0,6.0
+Fork_extended_rod_65,Festo rod representation,ADN16-70 shown extended65; adjustable stops required,65.0,8.0,8.0
+Fork_coupling_block,Aluminium,Coupling to open fork,12.0,10.0,8.0
+P09_Fork_motor_foot,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",140.0,60.0,4.5
+Magnet_tube_300,Nonmagnetic tube,ID14.4 OD20; gate slot1.8,20.0,20.0,298.3
+Stack_14x5_0,Magnet,D14x5 reference stack,14.0,14.0,5.0
+Stack_14x5_1,Magnet,D14x5 reference stack,14.0,14.0,5.0
+Stack_14x5_2,Magnet,D14x5 reference stack,14.0,14.0,5.0
+Stack_14x5_3,Magnet,D14x5 reference stack,14.0,14.0,5.0
+Independent_stack_gate,Nonmagnetic steel,Sequencing / inter-magnet insertion to validate,30.0,22.0,1.5
+Festo_MAGNET_GATE_ADN12_10,Festo,ADN-12-10-I-P-A #536212; simplified catalogue envelope,27.5,49.2,27.5
+P10_Magnet_gate_face,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",44.0,6.0,40.0
+P12_Magnet_gate_foot,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",80.0,70.0,10.95
+Magnet_gate_rod_extension,Steel,Gate linkage,4.0,34.8,4.0
+Festo_INLET_GATE_ADN12_10,Festo,ADN-12-10-I-P-A #536212; simplified catalogue envelope,27.5,27.5,49.2
+P11_Inlet_gate_motor_shelf,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",80.0,50.0,6.0
+Inlet_gate_support,Aluminium,Cantilever support; M6 fixings to finish,8.0,44.0,34.0
+Inlet_gate_rod_extension,Steel,Gate link,4.0,4.0,14.8
+Inlet_gate_blade,Nonmagnetic steel,Blade open; 10mm travel,3.0,30.0,4.0
+Split_tube_clamp_50,Aluminium,OD20.3 clamp; pinch fastener layout to finish,30.0,30.0,8.0
+P08_Mast_shelf_50,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",47.5,60.0,6.0
+Mast_angle_50,Aluminium,"M8 slot10 T-nut mounting, verify Bosch connector",6.0,35.0,28.0
+Split_tube_clamp_230,Aluminium,OD20.3 clamp; pinch fastener layout to finish,30.0,30.0,8.0
+P08_Mast_shelf_230,Aluminium 6082,"Plate: local XY origin at centre, bottom Z=0",47.5,60.0,6.0
+Mast_angle_230,Aluminium,"M8 slot10 T-nut mounting, verify Bosch connector",6.0,35.0,28.0
